@@ -24,7 +24,7 @@ A detailed overview of the dataset is obtained, providing insights into the tota
 
 The presence of missing values is assessed to ensure data integrity. Fortunately, the dataset is found to be free of any null values.
 
-**7. Check for Duplicate Data and Drop Them:**
+**7. Check for the Duplicate Data and Drop Them:**
 
 Duplicate records, if any, are identified and subsequently removed. This step is crucial for maintaining the accuracy and reliability of the dataset.
 
